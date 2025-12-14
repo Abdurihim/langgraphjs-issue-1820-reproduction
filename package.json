@@ -4,7 +4,7 @@
   "description": "Minimal reproduction for 'Channel already exists with a different type' error",
   "type": "module",
   "scripts": {
-    "reproduce-bug": "tsx reproduce-bug.ts",
+    "reproduce-bug": "tsx reproduce.ts",
     "reproduce-deepagents": "tsx reproduce-deepagents.ts"
   },
   "dependencies": {
